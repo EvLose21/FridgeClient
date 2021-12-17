@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff471538-abb6-40c6-b463-1c3ce3448033": {
+      "ProjectGuid": "ff471538-abb6-40c6-b463-1c3ce3448033",
+      "DisplayName": "FridgeClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
